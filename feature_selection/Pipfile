@@ -9,6 +9,10 @@ numpy = "*"
 sklearn = "*"
 seaborn = "*"
 ipykernel = "*"
+protobuf = "==3.20.0"
+tensorflow = "==2.6.0"
+tfx = "==1.8.0"
+ml-metadata = "*"
 
 [dev-packages]
 
